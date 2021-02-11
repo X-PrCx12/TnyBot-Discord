@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/00firestar00/TnyBot-Discord.svg?branch=master)](https://travis-ci.org/00firestar00/TnyBot-Discord)
 [![codecov.io](http://codecov.io/gh/00firestar00/TnyBot-Discord/coverage.svg?branch=master)](https://codecov.io/gh/00firestar00/TnyBot-Discord?branch=master)
 [![Discord](https://discordapp.com/api/guilds/809327062116335636/widget.png)](https://discord.gg/bHcdkr5wXg)
-[![Instagram](https://instagram.com/ini.pfff/instagram.git)]
+[![Instagram](https://github.com/X-PrCx12/TnyBot-Discord/instagram.git)]
 [![RepoSize](https://api.github.com/repos/X-PrCx12/TnyBot-Discord/coverage.svg)]
 
 ## TnyBot-Discord
