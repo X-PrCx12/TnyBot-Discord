@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/00firestar00/TnyBot-Discord.svg?branch=master)](https://travis-ci.org/00firestar00/TnyBot-Discord)
 [![codecov.io](http://codecov.io/gh/00firestar00/TnyBot-Discord/coverage.svg?branch=master)](https://codecov.io/gh/00firestar00/TnyBot-Discord?branch=master)
-[![Discord](https://discordapp.com/api/guilds/231979788275810306/widget.png)](https://discord.gg/fqmCJJQ)
+[![Discord](https://discordapp.com/api/guilds/231979788275810306/widget.png)](https://discord.gg/JsAKUEMQ)
 
 ## TnyBot-Discord
 The idea behind TnyBot is that I wanted a Discord bot that had all the functionality of the multiple bots servers were using.
@@ -29,7 +29,7 @@ If you want to build your own bot, you can add or remove the Cogs from TnyBot as
 I'll make this more configurable in the future.
 
 #### Config
-In order to use the bots, have a look at [sample_config](https://github.com/00firestar00/TnyBot-Discord/blob/master/sample_config).
+In order to use the bots, have a look at [sample_config](https://github.com/X-PrCx12/TnyBot-Discord/blob/master/sample_config).
 
 The bots expect the config to be located at `../tnybot_config`.
 I didn't want to risk accidentally committing credentials to GitHub, so I put it put it outside this repo. 
@@ -43,7 +43,7 @@ You can run the tests by using `python3.5 tests.py` or, `python3.5 -m unittest d
 Or you know, you could just check Travis... Or join my discord, it has Travis webhooks.
 
 #### Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/00firestar00/TnyBot-Discord)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/X-PrCx12/TnyBot-Discord)
 
 If you want an easy way to test Tny, without having to install python, postgres, sqlite or anything else he needs,
 then use this button. If you don't have an account, you can create one for free. 
