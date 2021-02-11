@@ -9,6 +9,8 @@ The idea behind TnyBot is that I wanted a Discord bot that had all the functiona
 Even though that isn't really practical to have a giant bot with all the commands you could ever think of,
 by creating various Cogs (discord.py's version of a plugin system), anyone can mix and match the exact set of commands they want.
 
+### [**Install guide + list of all commands.**](https://github.com/X-PrCx12/TnyBot-Discord/wiki)
+
 I have various example scripts in the root directory.
 ##### tnybot.py
 - This is what I use as a beta bot. All the functionality gets tested here, before I decide to add it to my main bot.
