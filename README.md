@@ -2,7 +2,7 @@
 [![codecov.io](http://codecov.io/gh/00firestar00/TnyBot-Discord/coverage.svg?branch=master)](https://codecov.io/gh/00firestar00/TnyBot-Discord?branch=master)
 [![Discord](https://discordapp.com/api/guilds/809327062116335636/widget.png)](https://discord.gg/bHcdkr5wXg)
 [![Instagram](https://instagram.com/ini.pfff/instagram.png)]
-[![Repo Size](github.png)](https://github.com/settings/repositories/size)
+[![Repo Size](github-green.svg)](https://github.com/settings/repositories/size)
 
 ## TnyBot-Discord
 The idea behind TnyBot is that I wanted a Discord bot that had all the functionality of the multiple bots servers were using.
