@@ -1,10 +1,8 @@
 [![Build Status](https://travis-ci.org/00firestar00/TnyBot-Discord.svg?branch=master)](https://travis-ci.org/00firestar00/TnyBot-Discord)
 [![codecov.io](http://codecov.io/gh/00firestar00/TnyBot-Discord/coverage.svg?branch=master)](https://codecov.io/gh/00firestar00/TnyBot-Discord?branch=master)
 [![Discord](https://discordapp.com/api/guilds/809327062116335636/widget.png)](https://discord.gg/bHcdkr5wXg)
-[![Instagram](instagram.git)]
 [![RepoSize](https://api.github.com/repos/X-PrCx12/TnyBot-Discord/git-show)]
-[![Konzol](https://github.com/X-PrCx12/TnyBot-Discord/blob/[branch]/image.jpg?raw=true)
-[![DJAVU](myimage.png)
+[![Images](github.com/X-PrCx/TnyBot-Discord/image/repository-open-graph-template.png)
 ## TnyBot-Discord
 The idea behind TnyBot is that I wanted a Discord bot that had all the functionality of the multiple bots servers were using.
 
