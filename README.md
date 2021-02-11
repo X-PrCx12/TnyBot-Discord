@@ -3,7 +3,7 @@
 [![Discord](https://discordapp.com/api/guilds/809327062116335636/widget.png)](https://discord.gg/bHcdkr5wXg)
 [![RepoSize](https://api.github.com/repos/X-PrCx12/TnyBot-Discord/git-show)]
 [![](repository-open-graph-template.png)]
-### TnyBot
+#### TnyBot
 The idea behind TnyBot is that I wanted a Discord bot that had all the functionality of the multiple bots servers were using.
 
 Even though that isn't really practical to have a giant bot with all the commands you could ever think of,
