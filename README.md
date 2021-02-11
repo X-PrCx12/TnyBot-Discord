@@ -3,7 +3,7 @@
 [![Discord](https://discordapp.com/api/guilds/809327062116335636/widget.png)](https://discord.gg/bHcdkr5wXg)
 [![Instagram](instagram.git)]
 [![RepoSize](https://api.github.com/repos/X-PrCx12/TnyBot-Discord/git-show)]
-
+![Konzol](https://github.com/X-PrCx12/TnyBot-Discord/blob/[branch]/image.jpg?raw=true)
 ## TnyBot-Discord
 The idea behind TnyBot is that I wanted a Discord bot that had all the functionality of the multiple bots servers were using.
 
